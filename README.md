@@ -13,5 +13,5 @@ https://ruymanengithub.github.io/islandsvonkarman/
 
 
 
-![alt text](https://github.com/ruymanengithub/islandsvonkarman/blob/main/images/ksimulation_Tenerife_vonKarman.png?raw=true)
+![alt text](https://github.com/ruymanengithub/islandsvonkarman/blob/main/images/simulation_Tenerife_vonKarman.png?raw=true)
 
