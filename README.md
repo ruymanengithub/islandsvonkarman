@@ -8,7 +8,7 @@ Here is the simulator:
 https://ruymanengithub.github.io/islandsvonkarman/
 
 
-The following is an image from Sentinel 3, taken on 19 April 2021. Here you can see the "von Karman vortex streets" that form behind the islands, as they interrupt the flow from the NE trade winds. This is what inspired me to take the great code from Matthias Muller and modify it to change circular obstacle by polygons with the shape of (my beloved, and home) islands.
+The following is an image from Sentinel 3, taken on 19 April 2021. Here you can see the "von Karman vortex streets" that form behind the islands, as they interrupt the flow of the NE trade winds. This is what inspired me to take the great code from Matthias Muller and modify it to change the circular obstacle by polygons with the shape of (my beloved, and home) islands.
 
 
 ![von karman vortex street behind the Canary Islands shot from space](/images/karman_canarias_sentinel3_20230419.jpg?raw=true)
